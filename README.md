@@ -1,5 +1,19 @@
+#Original script
+https://forum.fivem.net/t/release-esx-carlock/504756
+
 # gs_CarLock-v1.03
-Versie 1.03
+My version and added functions
+- Blinking lights when locked and unlocked
+- Lock sound added (you need interactsounds for it)
+- Drawtext on vehicle abouth the Lock state of the car
+- Speed limiter 
+- Nice looking messages with icons
+- All options can be turned on or off in Config.lua
+
+
+#Dutch translation
+
+
 # Depancy 
 Dit script is nodig om het geluid te horen van je voertuig die sluit of open gaat:
 Interact Sound : https://github.com/plunkettscott/interact-sound
