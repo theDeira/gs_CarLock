@@ -1,4 +1,4 @@
-#Original script
+# Original script
 https://forum.fivem.net/t/release-esx-carlock/504756
 
 # gs_CarLock-v1.03
@@ -28,7 +28,7 @@ start gs_carlock
 
 Zet altijd interact sound BOVEN gs_carlock in je server.cfg !
 
-#Config
+# Config
 
     ControlKey          = 217,       -- CAPSLOCK , voor andere keybinds kijk : https://docs.fivem.net/game-references/controls/
     NotCarOwner         = "Je bezit ~b~niet~w~ over de sleutels van dit voertuig..",
