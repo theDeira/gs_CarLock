@@ -11,7 +11,8 @@ My version and added functions
 - All options can be turned on or off in Config.lua
 
 
-#Dutch translation
+# Dutch script translation
+If you want it in your own language you have to translate it yourself
 
 
 # Depancy 
