@@ -1,4 +1,7 @@
 # Original script
+I have full permission from the original author to share my own version.
+Original script:
+
 https://forum.fivem.net/t/release-esx-carlock/504756
 
 # gs_CarLock-v1.03
