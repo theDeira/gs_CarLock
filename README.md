@@ -4,6 +4,14 @@ Versie 1.03
 Dit script is nodig om het geluid te horen van je voertuig die sluit of open gaat:
 Interact Sound : https://github.com/plunkettscott/interact-sound
 
+Zet het bestand "carlock.ogg" in het script van interact sound: In Client -> html -> sounds
+EN in de __resource.lua !!
+
+In je server.cfg :
+start interact-sound
+start gs_carlock 
+
+Zet altijd interact sound BOVEN gs_carlock in je server.cfg !
 
 #Config
 
