@@ -1,6 +1,7 @@
 # gs_CarLock-v1.03
 Versie 1.03
 # Depancy 
+Dit script is nodig om het geluid te horen van je voertuig die sluit of open gaat:
 Interact Sound : https://github.com/plunkettscott/interact-sound
 
 
